@@ -32,3 +32,9 @@ btn.addEventListener("click",function(){
 Home.addEventListener("click",function(){
    goto("navbar")
 })
+
+
+function ando(){
+  link2 = "https://ibb.co/qkxtH0w"
+  window.open(link2,'_blank')
+}
