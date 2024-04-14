@@ -33,8 +33,7 @@ Home.addEventListener("click",function(){
    goto("navbar")
 })
 
-
 function ando(){
-  link2 = "https://ibb.co/qkxtH0w"
+  link2 = "https://ibb.co/5RMbCcc"
   window.open(link2,'_blank')
 }
